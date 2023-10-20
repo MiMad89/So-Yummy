@@ -1,1 +1,1 @@
-# https://mimad89.github.io/So-Yummy/
+# https://so-yummy-teal.vercel.app/
